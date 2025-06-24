@@ -70,3 +70,5 @@ npm start
 
 ## 📜 License
 This project is built for educational, resume, and portfolio purposes only.
+
+![App Preview](./src/assets/pages/home-page.jpeg)
